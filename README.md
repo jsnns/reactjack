@@ -1,7 +1,11 @@
-# reactjack
+# ReactJack
 Create React App based BlackJack state-machine
 
-node: v8.1.2
+## Install and Run
+```json 
+{
+  "node": "v8.1.2"
+}`
 
-run npm install
-run npm start
+`run npm install`
+`run npm start`
