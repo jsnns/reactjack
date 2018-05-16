@@ -1,6 +1,11 @@
 {
-  "name": "blackjack",
-  "version": "0.1.0",
+  "name": "ReactJack",
+  "version": "1.0.0",
+  "author": {
+    "email": "dev@jsansbury.com",
+    "name": "Jacob Sansbury",
+    "url": "http://jsansbury.com"
+  },
   "private": true,
   "dependencies": {
     "@material-ui/core": "^1.0.0-rc.1",
