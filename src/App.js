@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Grid from "@material-ui/core/Grid";
 import { Button } from "@material-ui/core";
 
-import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
 // models

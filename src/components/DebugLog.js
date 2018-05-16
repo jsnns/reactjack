@@ -3,7 +3,12 @@ import Modal from "@material-ui/core/Modal";
 import Paper from "@material-ui/core/Paper";
 
 const styles = {
-  modal: { top: "50%", left: "50%", transform: `translate(-50%, -50%)` },
+  modal: { 
+    top: "50%", 
+    left: "50%", 
+    transform: `translate(-50%, -50%)`,
+    fontFamily: 'monospace'
+  },
   paper: { padding: 25 },
   turn: {
     marginBottom: 7
