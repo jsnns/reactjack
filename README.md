@@ -50,7 +50,7 @@ Open `http://localhost:3000?debug` in your browser for debug mode.
 └── yarn.lock
 ```
 
-### Details
+### /src Details
 * **Data**: Data models for Cards, Decks, Hands, and Games.
 * **Scenes**: Application views.
 * **Components**: Small component library.
