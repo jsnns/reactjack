@@ -16,6 +16,7 @@ Open `http://localhost:3000` in your browser.
 Open `http://localhost:3000?debug` in your browser for debug mode.
 
 ## Structure
+```
 ├── public
 │   ├── favicon.ico
 │   ├── index.html
@@ -47,3 +48,4 @@ Open `http://localhost:3000?debug` in your browser for debug mode.
 ├── package-lock.json
 ├── package.json
 └── yarn.lock
+```
