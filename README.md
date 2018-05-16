@@ -8,8 +8,11 @@ Create React App based BlackJack state-machine
 }
 ```
 
-`run npm install`
-`run npm start`
+
+* `git clone https://github.com/jsnns/reactjack`
+* `cd reactjack`
+* `npm install`
+* `npm run start`
 
 Open `http://localhost:3000` in your browser.
 
