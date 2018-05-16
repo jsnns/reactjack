@@ -61,11 +61,11 @@ class Game {
     }
 
     turn(stand) {
-        const { winner, dealer, player } = this;
+        const { dealer, player } = this;
 
         // easy Enum values
         const { PLAYER, DEALER } = Winners;
-        const { DEALER_BUST, PLAYER_BUST, PLAYER_STAND, ONGOING } = GameStates;
+        const { DEALER_BUST, PLAYER_BUST } = GameStates;
         const { BUST, STAND, PLAY } = HandStates;
 
         if (stand) this.player.stand();

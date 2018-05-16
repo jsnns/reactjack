@@ -4,7 +4,6 @@ import Grid from "@material-ui/core/Grid";
 import { Button } from "@material-ui/core";
 
 import GameControls from "../components/GameControls";
-import InitialButtons from "../components/InitialButtons";
 import Cards from "../components/Cards";
 import GameStats from "../components/GameStats";
 import { Render, Centered } from "../components/util";

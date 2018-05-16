@@ -1,9 +1,7 @@
 import React from "react";
-import Switch from "@material-ui/core/Switch";
 import Grid from "@material-ui/core/Grid";
-import { Button } from "@material-ui/core";
 
-import { HotValue, Attribute } from "./typography";
+import { Attribute } from "./typography";
 
 function GameStats({ cheat, game: { player, dealer, deck } }) {
   return (

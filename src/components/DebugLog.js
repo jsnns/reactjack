@@ -43,7 +43,7 @@ function Turn({ debug }) {
 }
 class DebugLog extends Component {
   render() {
-    const { open, is, debugs, message, close } = this.props;
+    const { open, debugs, close } = this.props;
     return (
       <Modal style={styles.modal} open={open} onClose={close}>
         <Paper style={styles.paper} elevation={2}>
